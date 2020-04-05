@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="86px" height="59px" viewBox="0 0 86 59" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Subscribe Icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="setting-layout-new" transform="translate(-533.000000, -50.000000)">
+            <g id="Group-17">
+                <g transform="translate(480.000000, 0.000000)">
+                    <g id="Subscribe-Icon" transform="translate(55.000000, 50.000000)">
+                        <g id="Group-7" transform="translate(60.500000, 16.500000) rotate(90.000000) translate(-60.500000, -16.500000) translate(52.500000, 9.000000)" stroke="#FFFFFF" stroke-width="2">
+                            <path d="M15.5,8 C11.6340068,8 8.5,11.1340068 8.5,15" id="Oval"></path>
+                            <path d="M15.5,0 C7.21572875,0 0.5,6.71572875 0.5,15" id="Oval"></path>
+                            <path d="M15.5,4 C9.42486775,4 4.5,8.92486775 4.5,15" id="Oval"></path>
+                        </g>
+                        <circle id="Oval" fill="#FFDA60" cx="54.5" cy="29.5" r="29.5"></circle>
+                        <path d="M16.9,15.9778827 C18.479723,12.4821986 21.061509,10.1365604 24.6453581,8.94096812 C28.2292072,7.74537584 31.8130563,8.64207005 35.3969054,11.6310508 L37.6287597,11.6310508 C43.0762957,11.6310508 47.4923961,16.0471512 47.4923961,21.4946871 L47.4923961,21.4946871 L47.4923961,21.4946871 L47.9330579,21.4946871 C52.8853633,21.4946871 56.9,25.5093239 56.9,30.4616293 C56.9,35.4139347 52.8853633,39.4285714 47.9330579,39.4285714 L36.384527,39.4285714 L36.384527,39.4285714" id="Path-3" stroke="#2C3FF3" stroke-width="3"></path>
+                        <g id="Group-6" transform="translate(0.000000, 16.000000)" stroke-width="3">
+                            <circle id="Oval" stroke="#C3C3C3" cx="18.3490566" cy="18" r="18"></circle>
+                            <polyline id="Path-2" stroke="#2C3FF3" points="17.3490566 11 17.3490566 18 9.3490566 18"></polyline>
+                            <g id="Group-5" transform="translate(5.349057, 34.000000)" stroke="#2C3FF3">
+                                <line x1="4.16666667" y1="0" x2="0" y2="4.58333333" id="Path-4"></line>
+                                <line x1="25" y1="0" x2="20.8333333" y2="4.58333333" id="Path-4" transform="translate(22.916667, 2.291667) scale(-1, 1) translate(-22.916667, -2.291667) "></line>
+                            </g>
+                        </g>
+                        <line x1="8.5" y1="13.5" x2="1" y2="19" id="Path-5" stroke="#2C3FF3" stroke-width="3"></line>
+                        <line x1="35.5" y1="13.5" x2="28" y2="19" id="Path-5" stroke="#2C3FF3" stroke-width="3" transform="translate(31.750000, 16.250000) scale(-1, 1) translate(-31.750000, -16.250000) "></line>
+                        <g id="Group-10" transform="translate(47.000000, 32.000000)">
+                            <rect id="Rectangle" stroke="#FFFFFF" stroke-width="3" fill="#FFFFFF" x="-1.5" y="-1.5" width="25" height="13" rx="6.5"></rect>
+                            <circle id="Oval" fill="#FFDA60" cx="17" cy="5" r="5"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

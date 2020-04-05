@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="73px" height="74px" viewBox="0 0 73 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>Group Management</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="setting-layout-new" transform="translate(-304.000000, -48.000000)">
+            <g id="Group-18">
+                <g transform="translate(240.000000, 0.000000)">
+                    <g id="Group-Management" transform="translate(64.000000, 48.000000)">
+                        <circle id="Oval" fill="#FFDA60" cx="29.5" cy="29.5" r="29.5"></circle>
+                        <g id="Group-4" transform="translate(9.000000, 10.000000)" stroke="#2C3FF3" stroke-width="3">
+                            <circle id="Oval" cx="9" cy="9" r="9"></circle>
+                            <circle id="Oval" cx="31" cy="9" r="9"></circle>
+                            <circle id="Oval" cx="9" cy="31" r="9"></circle>
+                            <circle id="Oval" cx="31" cy="31" r="9"></circle>
+                        </g>
+                        <g id="Group-4" transform="translate(9.000000, 10.000000)" stroke="#C3C3C3" stroke-width="3">
+                            <circle id="Oval" cx="53" cy="9" r="9"></circle>
+                            <circle id="Oval" transform="translate(53.000000, 31.000000) rotate(90.000000) translate(-53.000000, -31.000000) " cx="53" cy="31" r="9"></circle>
+                            <circle id="Oval" transform="translate(53.000000, 53.000000) rotate(90.000000) translate(-53.000000, -53.000000) " cx="53" cy="53" r="9"></circle>
+                            <circle id="Oval" transform="translate(31.000000, 53.000000) rotate(90.000000) translate(-31.000000, -53.000000) " cx="31" cy="53" r="9"></circle>
+                            <circle id="Oval" transform="translate(9.000000, 53.000000) rotate(90.000000) translate(-9.000000, -53.000000) " cx="9" cy="53" r="9"></circle>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
