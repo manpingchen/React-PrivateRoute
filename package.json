@@ -10,7 +10,7 @@
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
     "antd": "^4.1.0",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "axios-auth-refresh": "^2.2.3",
     "little-state-machine": "^2.11.3",
     "localforage": "^1.7.3",
